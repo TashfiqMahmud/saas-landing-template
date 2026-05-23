@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Lenovo/Desktop/aether-ai/src/app/page.tsx"],"sourcesContent":["import Navbar from \"@/components/Navbar\";\r\nimport Hero from \"@/components/Hero\";\r\nimport Features from \"@/components/Features\";\r\nimport PricingAndFAQ from \"@/components/Pricing\";\r\n\r\nexport default function Home() {\r\n    return (\r\n        <main className=\"bg-[#030303] min-h-screen text-white selection:bg-purple-500/30 overflow-x-hidden\">\r\n            <Navbar />\r\n            <Hero />\r\n            <Features />\r\n            <PricingAndFAQ />\r\n        </main>\r\n    );\r\n}"],"names":["Home","className","Navbar","Hero","Features","PricingAndFAQ"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAKe,SAASA;IACpB,qBACI,8OAAC;QAAKC,WAAU;;0BACZ,8OAACC;;;;;0BACD,8OAACC;;;;;0BACD,8OAACC;;;;;0BACD,8OAACC;;;;;;;;;;;AAGb"}}]
+}
