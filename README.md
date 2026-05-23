@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aether.AI — Premium SaaS Landing Template
 
 A dark, conversion-focused landing page built with **Next.js**, **TypeScript**, **Tailwind CSS v4**, and **Lucide** icons. Designed to sell on marketplaces or deploy for AI/SaaS startups.
@@ -62,3 +63,7 @@ Define your actual license terms in your sales platform listing.
 - TypeScript
 - Tailwind CSS v4
 - lucide-react
+=======
+# saas-landing-template
+Saas landing template for sell
+>>>>>>> df60a0922a43f5e43456b351ae2e05b1afc5de9f
