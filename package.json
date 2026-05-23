@@ -18,13 +18,12 @@
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
     "lucide-react": "latest",
+    "next": "^16.2.6",
     "postcss": "latest",
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "^4.0.0",
     "typescript": "latest"
   },
-  "devDependencies": {
-    "next": "^16.2.6"
-  }
+  "devDependencies": {}
 }
