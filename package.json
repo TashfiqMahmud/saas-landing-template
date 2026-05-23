@@ -4,6 +4,7 @@
   "description": "Premium SaaS Template with Antigravity Animations",
   "type": "module",
   "scripts": {
+    "postinstall": "chmod +x node_modules/.bin/next",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
